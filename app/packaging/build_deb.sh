@@ -48,7 +48,7 @@ Architecture: $ARCH
 Installed-Size: $SIZE
 Maintainer: Andrej Ristic <andrej.s.ristic@gmail.com>
 Depends: libc6 (>= 2.34), libgl1, libegl1, libfontconfig1, libxkbcommon0, libdbus-1-3
-Homepage: https://github.com/andrejristic/pse-jacobian
+Homepage: https://github.com/zeravatechnologies/andrej-pse-jacobian
 Description: PSE-Jacobian - reproduce and audit the Jacobian Conjecture counterexample
  A Partial Self-Extension swarm that independently reproduces and audits a
  counterexample to the Jacobian Conjecture over the complex numbers, with a
